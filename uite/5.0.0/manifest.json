@@ -1,0 +1,9 @@
+{
+  "Id": "presents.OpsSuite",
+  "Name": "Alife 运维套件",
+  "Description": "插件体检 + 资源哨兵：进程/显存按插件归因、热重载前后 diff、配置快照与回滚、页面注入层审计、冲突检测、资源预算与分级降级事件。自带本地可视化面板与 AI 工具。",
+  "Version": "5.0.0",
+  "Dependencies": {
+    "Alife.Function.FunctionCaller": ""
+  }
+}
